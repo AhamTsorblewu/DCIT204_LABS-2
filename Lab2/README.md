@@ -1,7 +1,7 @@
 DCIT 204 - Lab 2: Interactive Array Algorithms
 
 Student Information
-- Name: Aham Adomah Elienam Torshelwu
+- Name: Aham Adomah Elienam Tsorblewu
 - Student ID: 22271087
 - Branch: Aham_22271087
 
